@@ -1,0 +1,10 @@
+0.  Steps to finished project
+1. create npm project
+2. create index, css,js files
+3. install dependencies, express ,nodemon(dev dependencies)
+4. create express server (server.js)
+5. do frontend part
+6. install socket.io ,setup socket.io in server.js aand client.js
+7. client send message logic in client.js
+8. Recieve message on server and broadcast to all clients
+9. 
